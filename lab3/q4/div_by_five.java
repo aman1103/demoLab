@@ -1,7 +1,7 @@
 class div_by_five{
 	public static void main(String args[]){
 		int sum=0;
-		for(int i=40;i<=250;i+=5)
+		for(int i=45;i<=245;i+=5)
 		{
 			sum+=i;
 		}
